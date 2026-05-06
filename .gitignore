@@ -1,0 +1,24 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+.env/
+.conda/
+
+# PyInstaller (Compilación)
+build/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+
+# Archivos de usuario/datos
+descargas/
+*.log
+config_local.json
